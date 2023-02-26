@@ -1,0 +1,59 @@
+Email Address Investigation
+
+Email validation:
+TruMail (trumail.io)
+Emailrep.io (emailrep.io)
+Verify Email (verify-email.org) and Email Hippo (tools.verifyemailaddress.io)
+
+Email Assumptions:
+
+Email Format (email-format.com)
+Gravatar (gravatar.com)
+
+Compromised Accounts:
+
+Have I Been Pwncd (haveibeenenpwned.com)
+Dehashed (dehashed.com)
+Spycloud (spycloud.com)
+Leaked Source (leakedsource.ru)
+Cybcmews (cybernews.com/personal-data-leak-check)
+
+Passwords:
+Leak Peek (leakpeek.com)
+We Leak Info (weleakinfo.ro)
+Breach Directory (breachdirectory.org)
+(md5decrypt.net/en/Shal)
+PSBDMP (psbdmp.ws):-- pg 272
+IntelligenccX (intelx.io)
+CitOday Leaks (breach.myosint.com)
+Scylla (scylla.so)
+Hunter (hunter.io/email-verifier)
+OCCRP (data.occrp.org)
+Search My Bio (searchmy.bio)
+Spytox (spytox.com)
+XLEK (xlek.com) do google dork site:.. "email"
+That’s Them (thatsthem.com)
+Public Email Records (publicemailrecords.com)
+Search People Free (searchpeoplefree.com/cyberbackgroundchecks.com)
+Many Contacts (manycontacts.com/cn/mail-check)
+
+Proton mail
+
+#1
+• Create a new "Contact”, add the target email address, then save it.
+• Access the contact and click the "Email Settings" icon.
+• Click the "Show advanced PGP settings" link.
+
+#Public key
+page no 276
+
+Domain Connections:
+Whoxy (whoxy.com/reverse-whois)
+Whoisology (whoisology.com)
+DomainBigData (domainbigdata.com)
+AnalyzelD (analyzeid.com)
+
+ScamSearch (scamsearch.io)
+
+IMP***(People Data Labs page no 277)
+

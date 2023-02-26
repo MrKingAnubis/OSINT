@@ -1,0 +1,48 @@
+IP_ADDRESSES_INVESTIGATION
+
+ViewDNS Reverse IP (viewdns.info/reverseip)
+ViewDNS IP Location (viewdns.info/iplocation)
+ViewDNS Port Scan (viewdns.info/portscan)
+ViewDNS IP Whois (viewdns.info/whois)
+ViewDNS IP Traceroute (viewdns.info/traceroute)
+ViewDNS Reverse DNS (viewdns.info/reversedns)
+
+https://www.ultnitools.com/tools/ipWhoisLookupRcsultPipAddress=70.39.110.82
+https://www.ultratools.com/tools/geoIpResult?ipAddress=70.39.110.82
+https://www.ultratools.com/tools/pingResult?hostName=70.39.110.82
+
+Bing IP 
+https://www.bing.com/search?q=ip%3A54.208.51.71
+
+IPLocation (iplocation.net)
+That's Them (thatsthem.com/reverse-ip-lookup)
+I Know What You Download (iknowwhatyoudownload.com)
+Exoncrator (metrics.torproject.org/exonerator.html)
+Wigle (wigle.net)
+https://wqgle.net/search?ssid=bazzell
+https://wigle.net/search#fullSearch?postalCode=62002
+Shodan (shodan.io)
+Shodan Maps (maps.shodan.io)
+Shodan Images (images.shodan.io)
+https://bcta.shodan.io/host/70.39.81.131
+https://beta.shodan.io/host/70.39.81.131/raw
+https://beta.shodan.io/host/70.39.81.131 /history
+https://www.zoomeye.org/searchRcsult?q=70.39.110.82
+Threat Crowd (threatcrowd.org)
+https://www.threatcrowd.org/ip.phpPip=70.39.110.82
+https://censys.io/ipv4/70.39.110.82
+
+Ipv6 Addresses
+https://www.ultratools.com/tools/ipv6InfoResult?ipAddress=2001 :db8::8a2e:370:7334
+https://www.ultratools.com/tools/ping6?ipAddress=2001 :db8::8a2e:370:7334
+
+Email Headers
+IP2Location (ip21ocation.com/free/email-tracer) 
+MX Toolbox (mxtoolbox.com/EmailHeadcrs.aspx)
+
+Obtaining a Target’s IP Address
+IP Logger (iplogger.org)
+Canary Tokens (canarytokens.org)
+LinkBait (github.com/2YmlJesse/LinkBait)
+GetNotify (getnotify.com)
+IntelTechniques IP Addresses Tool

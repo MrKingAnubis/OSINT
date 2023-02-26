@@ -1,0 +1,31 @@
+VIDEO OSINT
+
+Display Thumbnails ofVideos
+https://www.youtube.com/watch?v=1 nm1 jEJmOTQ
+https://Lytimg.com/vi/lnmljEJmOTQ/hqdefault.jpg
+https://img.youtube.eom/vi/lnmljEJmOTQ/0.jpg
+https://img.youtube.com/vi/1 nmljEJmOTQ/1 .jpg
+https://img.youtube.eom/vi/lnmljEJmOTQ/2.jpg
+https://img.youtube.com/vi/InmljEJmOTQ/3.jpg
+
+Identify and Bypass Country Restriction
+http://youtube.com/watch?v=cgEnBkmcpuQ
+http://polsy.org.uk/stuff/ytrcstrict.cgi?ytid=cgEnBkmcpuQ
+https://watannetxvork.com/tools/blocked/#url=cgEnBkmcpuQ
+
+tehn use VPN
+
+YouTube Metadata
+https://www.googleapis.com/youtube/v3/videos?id=cgEnBkmcpuQ&part=snippet,statistics,recordingDetail
+s&key=AIzaSyDNALbuV1 FZSRy6JpafwUaV_taSW12wZw
+
+YouTube Profiles
+https://www.youtube.com/feeds/videos.xml?user=SnubsieBoo
+<name>Shannon Morse</name>
+<yt:channelId>UCNofX8\vmSJh7NTklvMqueOA</yt:channclId>
+<Unk="https://ww'w.youtube.com/channel/UCNofX8\vmSJh7NTklvMqueOA"/>
+<published>2006-08-16T23:23:03+00:00</published>
+
+Google Videos (google.com/videohp)
+Bing Videos (videos.bing.com)
+Yandex Videos (yandex.com/video)

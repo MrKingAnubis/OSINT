@@ -1,0 +1,85 @@
+Twitter Investigation
+194
+
+**search bar-- twitter.com/explore
+advance search bar-- twitter.com/search-advanced (filters)
+
+**Twitter Person Search
+-import email address to contact
+
+-to:SultryAsian from:HydeNS33k
+
+**Twitter location search
+The following specific search on any’ Twitter page will display' Tweets known
+to have been posted from within one kilometer ofthe GPS coordinates of43.430242,-89.736459.
+-geocode:43.430242,-89.736459,1km
+-geocode:43.430242,-89.736459,1km "fight"
+
+**Mandatory and Optional Search Terms
+"Michael Parker" kill OR stab OR fight OR beat OR punch OR death OR die
+
+**Date Range Search
+since:2015-01-01 until:2015-01-05 "bomb threat"
+from:humanhacker since:2012-01-01 until:2012-12-31
+
+from:humanhacker email since:2006-01-01 until:2009-12-31
+
+https://twitter.com/humanhacker/likes
+from:inteltechniques filter:links
+from:inteltcchniques min_faves:l50
+from:inteltechniques min_replies:100
+
+**Deleated or Missing posts
+-check in google cache view
+-bing cache view
+-yandex cache view
+
+**Tweet Deck (tweetdeck.twitter.com)
+"Victim Name": A homicide investigator can monitor people mentioning a homicide victim.
+"School Name": A school can monitor anyone mentioning the school for suspicious activity.
+"Subject Name": An investigator can monitor a missing person's name for relevant information.
+"Event": Officials can monitor anyone discussing a special event such as a festival or concert.
+
+RealWorld Application: In 2019,1 wasinvestigating a death threat toward a celebrity. I launche weet
+and began monitoring. First, I created a search column with "to:myclient". This started a stream o
+people mentioning my client, which was too much to monitor. Next, I created a column of to.m} c lent ’
+die OR shoot OR death". This presented ver}’ few tweets being sent to the celebrity including speci ic ate u
+words. However, it did identify a suspect. A tweet was sent to the celebrity stating I hope you die a ier} * ea
+tonight". I then created another column of "from:suspect to:myclient". This identified ever}’ tweet ic was
+sending to the celebrity. Since I had to move on to other resources, I set one final Tweet Deck co umn o 
+"from:suspect to:myclient kill OR die OR shoot ORdeath" and added an alert. This instructed Tweet ec ' to
+play an audible sound if any new messages met the criteria. The same suspect was arrested a wee * ater \\ i e
+attempting to burglarize her apartment
+
+**Third-Party Resources
+-All iMy Tweets (allmytweets.net)
+-TweetBeaver (tweetbeaver.com)
+fav
+-Followerwonk (followerwonk.com)
+• Total audience reach: This tells me whether the target has true followers or "fakes".
+• Total impressions: This tells me an accurate size of die target's audience.
+• Total ReTweets: This discloses ifthe target's audience engages with the content.
+• Total audience favorites: This confirms engagement from the target's audience.
+• Tweet sentiment: This indicates positive or negative tone within comments.
+• Tweet types: This identifies new content versus ReTweets of others.
+• Tweet sources: This discloses the source ofsubmission, such as mobile, desktop, or API.
+• Domains shared: This summarizes the web links posted within Tweets.
+• Word cloud: This provides a summary ofthe most common words posted.
+-Twitter Biography Changes (spoonbill.io)
+-Twitonomy (twitonomy.com)
+
+**Twitter Location Information
+-Omnisci (omnisci.com/demos/tweetmap)
+-One Million Tweet Map (onemilliontweetmap.com)
+-Tweet Mapper (keitharm.me/projects/tweet)
+
+**Fake Followers
+ -SparkToro (sparktoro.com/tools/fake-followers-audit)
+-TwitterAudit (twitteraudit.com)
+
+**Miscellaneous Twitter Sites
+-Sleeping Time (sleepingtime.org)
+-Twiangulate (twiangulate.com)
+-Tinfoleak (tinfoleak.com)
+-FollerMe (foller.me)
+-TweetTopic (tweettopicexplorer.neoformix.com)

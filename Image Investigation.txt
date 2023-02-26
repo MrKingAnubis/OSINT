@@ -1,0 +1,40 @@
+Images Investigation
+
+Google Images (images.google.com)
+Bing Images (bing.com/images)
+TinEye (tineye.com)
+Yandex Images (yandex.ru/images)
+Baidu Images (image.baidu.com)
+Karma Decay (karmadecay.com)
+Root About (rootabout.com)
+Wolfram Image Identification Project (imageidentify.com)
+Pictriev (pictriev.com)
+
+Photo-Sharing Sites
+Flickr (flickr.com)
+Flickr Map (flickr.com/map)
+Flickr API:-
+https://api.flickr.com/services/rest/?method=flickr.people.findByEmail&api_key=27cl96593dad58382fc491
+2b00cfl 194&find_email=tcst@test.com
+https://api.flickr.com/services/rest/?method=flickr.people.findByUsername&api_key-27cl96593dad58382f
+c4912b00cf1194&username=intellectarsenal
+https://api.flickr.com/services/rest/?method=flickr.people.getlnfo&api_key=27cl96593dad58382fc4912b00
+cfH94&user_id=8104823@N02
+
+ExifData
+Jeffrey’s ExifViewer (exif.regex.info/exif.cgi)
+Camera Trace (cameratrace.com/trace)
+Online Barcode Reader (online-barcode-reader.inliteresearch.com)
+Online Barcode (onlincbarcodereadcr.com)
+Zxing (zxing.org)
+Cogncx (manateeworks.com/free-barcode-scanner)
+Online Decoder (online-barcode-readcr.com)
+
+Image Manipulation
+Foto Forensics (fotoforensics.com)
+Forensically (29a.ch/photo-forensics)
+
+Image Enlarging & Upscaling
+IMG Enlarger (imglarger.com)
+IMG Upscaler (imgupscaler.com)
+pimeyes

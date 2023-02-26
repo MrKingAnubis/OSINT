@@ -1,0 +1,70 @@
+Telephone Number Investigation
+
+Carrier Identification:
+Free Carrier Lookup (freecarrierlookup.com)
+Scout (scout.tel/phone-numbcr-lookup)
+
+Caller ID Databases:
+Twilio (twilio.com/lookup):-SID: SK204a2ff8657328c032229b8f377ae781
+people data labs:- b78089b43f631465bddf3199ed2202962999df27e6d49e41ecc33d08d
+b8923ce
+eyecon
+truecaller
+Tclnyx (telnyx.com)
+Caller ID Service (calleridservice.com)
+
+for api details:
+page 306
+
+Apeiron (https://apeiron.io/cnam)
+People Data Labs (peopledatalabs.com)
+https://api.peopledatalabs.com/v5/person/enrich?pretty=true&api_key=XXXX&phone=+l61846200
+
+Spy Dialer (spydialer.com)
+Caller ID Test (calleridtest.com)
+
+Telephone Search Websites
+411 https://www.41l.com/phone/1-618-462-0000
+800 Notes https://800notes.com/Phone.aspx/l-618-462-0000
+Advanced Background Checks https://www.advancedbackgroundchecks.eom/618-462-0000
+America Phonebook http://www.americaphonebook.com/reverse.php?number=6184620000
+Caller Smart https://www.callersrnart.corn/phone-number/618-462-0000
+Cyber Background Checks: https://www.cyberbackgroundchecks.com/phone/618-462-0000
+Dehashed https://dehashed.com/search?query=6184620000
+Fast People Search https://www.fastpeoplesearch.com/618-462-0000
+Info Tracer https://infotracer.com/phone-lookup/results/?phone=6184620000
+John Doe https://johndoe.com/phones/6184620000
+Numpi https://numpi.com/phone-info/6184620000
+Nuwber https://nuwber.com/search/phone?phone=6184620000
+OK Caller https://www.okcaller.eom/6184620000
+People Search Now https://www.peoplesearchnow.com/phone/618-462-0000
+Phone Owner https://phoneowner.com/phone/6184620000
+Reveal Name https://www.reveaIname.eom/618-462-0000
+Reverse Lookup https://www.reverse-lookup.co/618-462-0000
+Search People Free https://www.searchpeoplefree.com/phone-lookup/618-462-0000
+Spytox https://www.spytox.eom/reverse-phone-lookup/618-462-0000
+Sync.me https://sync.me/search/?number=l6184620000
+That’s Them https://thatsthem.com/phone/618-462-0000
+True People Search https://www.truepeoplesearch.com/results?phoneno=(618)462-0000
+US Phonebook https://www.usphonebook.com/618-462-0000
+White Pages https://www.whitepages.com/phone/l-618-462-0000
+WhoseNo https://www.whoseno.com/US/6184620000
+Yellow Pages https://people.yellowpages.com/whitepages/phone-lookup?phone=6184620000
+Zabasearch https://www.zabasearch.com/phone/6184620000
+Google https://www.google.com/search?q=618-462-0000
+Bing https://www.bing.com/search?q=618-462-0000
+Yandex https://yandex.com/search/?text=618-462-0000
+
+Sly Dial (slydial.com)
+Old Phone Book (oldphonebook.com)
+Escort Index (escortindex.com)
+
+android:-
+Calls.ai (sync.ai/calls-ai)
+
+https://breachdirectory.org
+https://weleakinfo.to/
+
+**https://bmobile.in/
+**https://scaninfoga.in/
+**https://scaninfoga.in/upload-number/   5B41

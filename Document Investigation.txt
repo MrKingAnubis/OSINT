@@ -1,0 +1,99 @@
+Documents Investigation
+
+Google Searching (google.com)
+Google Docs (docs.google.com)
+Microsoft Docs (docs.microsoft.com)
+site:docs.microsoft.com "resume"
+Amazon Web Services (amazonaws.com)
+site:amazonaws.com ext:xls "password" - 114 Excel spreadsheets containing "password"
+site:amazonaws.com ext:pdf "osint" - 260 PDF files containing "osint"
+Gray Hat Warfare (buckets.grayhatwarfare.com)
+Google Cloud Storage (cloud.google.com)
+site:storage.googleapis.com excxlsx OR ext:xls - 2,310 Spreadsheets
+site:storage.googleapis.com "confidential" - 9,502 Documents
+site:storage.googleapis.com "confidential" ext:pptx - 11 PowerPoint files marked as confidential
+Presentation Repositories
+Slide Share (slideshare.net)
+1SSUU (issuu.com)
+Slidebean (slidebean.com)
+Prezi (prezi.com)
+Slide Search (slidesearchengine.com)
+Author Stream (authorstream.com)
+Scribd (scribd.com)
+PDF Drive (pdfdrive.com)
+WikiLeaks (search.wikilleaks.org)
+Cryptome (cryptome.org)
+
+Paste Sites
+Pastebin (pastebin.com)
+sitc:pastebin.com "osint"
+paste.org
+paste.org.ru
+paste.ubuntu.com
+paste2.org
+pastebin.ca
+pastebin.com
+pastebin.fr
+pastebin.gr
+pastefs.com
+pastehtml.com
+pastelink.net
+pastie.org
+p.ip.fi
+privatebin.net
+slexy.org
+snipplr.com
+sprunge.us
+textsnip.com
+tidypub.org
+wordle.net
+zerobin.net
+heypasteit.com
+ideone.com
+ivpaste.com
+jsbin.com
+justpaste.it
+justpaste.me
+paste.debian.net
+paste.ee
+paste.centos.org
+paste.frubar.net
+paste.lisp.org
+paste.opensuse.org
+Obin.net
+cllp.net
+codepad.org
+controlc.com
+doxbin.org
+dpaste.com
+dpaste.de
+dpaste.org
+dumpz.org
+friendpaste.com
+gist.github.com
+hastebin.com
+
+Document Metadata
+Extract Metadata (extractmetadata.com)
+Jeffrey’s Viewer (exif.regex.info/exif.cgi)
+Exiffnfo (exifinfo.org)
+Get Metadata (get-metadata.com)
+
+Document Metadata Applications
+ExifTool (exiftool.org)
+FOCA (github.com/ElevenPaths/FOCA)
+
+tools
+Free OCR (free-ocr.com)
+Text Archives (archive.org)
+https://archive.org/search.php?query=inteltechniques&sin-TXT
+Google Books (books.google.com)
+Pirated Books (b-ok.cc/fultext)
+Book Sales (amazon-asin.com)
+
+Rental Vehicle Records
+Enterprise (enterprise.com)
+Hertz (hertz.com/rentacar/receipts/request-receipts.do)
+Alamo (alamo.com)
+Thrifty (thrifty.com/Reservarions/OnlineReceipts.aspx)
+Dollar (dollar.com/Reservarions/Receipt.aspx)

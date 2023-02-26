@@ -1,0 +1,29 @@
+Other Social Media Sites
+
+LinkedIn:--
+People: (https://www.linkedin.com/search/results/people/?keywords=john wilson)
+Posts: (https://www.linkedin.com/search/results/content/?keywords=john wilson)
+Companies: (https://www.linkedin.com/search/results/companies/?keywords=john wilson)
+Groups: (https://www.linkedin.com/search/results/groups/?keywords=john wilson)
+Jobs: (https://www.linkedin.com/jobs/index/?keywords=john%20wilson)
+Schools: (https://www.linkedin.com/search/results/schools/?keywords=john wilson)
+Events: (https://www.linkedin.com/search/results/events/?keywords=john wilson)
+
+searching with small details:--
+https://www.linkedin.com/search/results/people/PfirstName-john
+https://www.linkedin.com/search/results/people/?firstName=john&lastName=smith
+https://www.linkedin.com/search/results/people/PfirstName—john&lastName-smith
+&company=microsoft
+https://www.linkedin.com/search/results/people/?firstName=john8dastName=smith
+&company=microsoft&title=manager&school=Oklahoma
+
+snapchat:--
+SoVIP (sovip.io)
+Ghostdex (ghost.com)
+
+telegram:--
+Telegram Analytics (https://tgstat.ru/en)
+Telegram.im (telegram.im/tools/search.php
+
+
+https://threadreaderapp.com/thread/1624048740905504769.html

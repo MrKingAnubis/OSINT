@@ -1,0 +1,96 @@
+Facebook Methodology
+
+1.Facebook Normal search then apply filters.
+
+Timeline: https://www.facebook.com/zuck
+About: https://www.facebook.com/zuck/about
+Employment: https://www.facebook.com/zuck/about?section=work
+Education: https://www.facebook.com/zuck/about?section=education
+Locations: https://www.facebook.com/zuck/about?section=living
+Contact Info: https://www.facebook.com/zuck/about?section=contact-info
+Basic Info: https://www.facebook.com/zuck/about?section=basic-info
+Relationships: https://www.facebook.com/zuck/about?section=relationship
+Family Members: https://www.facebook.com/zuck/about?section=family
+Bio: https://www.facebook.com/zuck/about?section=bio
+Life Events: https://www.facebook.com/zuck/about?section=year-overviews
+Friends: https://www.facebook.com/zuck/friends
+Profile Photos: https://www.facebook.com/zuck/photos
+Photo Albums: https://www.facebook.com/zuck/photos_albums
+Videos: https://www.facebook.com/zuck/videos
+Check-Ins: https://www.facebook.com/zuck/places_visited
+Recent Check-Ins: https://www.facebook.com/zuck/places_recent
+Sports: https://www.facebook.com/zuck/sports
+Music: https://www.facebook.com/zuck/music
+Movies: https://www.facebook.com/zuck/movies
+TV Shows: https://www.facebook.com/zuck/tv
+Books: https://www.facebook.com/zuck/books
+Apps & Games: https://www.facebook.com/zuck/games
+Likes: https://www.facebook.com/zuck/likes
+Events: https://www.facebook.com/zuck/events
+Facts: https://www.facebook.com/zuck/did_you_know
+Reviews: https://www.facebook.com/zuck/reviews
+Notes: https://www.facebook.com/zuck/notes
+
+2. Profile Details:
+Search for "userID" in the source code.
+This number will allow us to obtain many more details about the account.
+web to find userID: https://fb-search.com/find-my-facebook-id
+https://findidfb.com/
+
+3. Base64 Encoding
+https://facebook.com/search/photos/?q=photos&epa=FILTERS&filters=
+This is the base form where we are telling to search all the photos according to the filter.
+
+{'’rp_author":"{\"name\":\"author\",\"args\":\"[USERlD]\"}"}
+after the filters= add this 
+replace USERID by the ID you got and convert this into base64 encoding.
+
+https://codebcautify.org/basc64-encode -- use this link to encode the url
+
+Assume we want to identify posts created by "zuck". We know his user number is "4", so we want to combine
+"https://facebook.com/search/posts/Pq—posts&epa=FILTERS&fikers=" with the Base64 encoding of
+"{"rp_author" {\"name\":\"author\",\"args\":\"4\"}"}".
+
+Posts by Keyword:
+https://www.facebook.com/search/posts/?q=OSINT&epa=FILTERS&filters=eyJycF9hdXRob3IiOiJ7XC
+JuYWllXCI6XCJhdXRob3JcIixcImFyZ3NcIjpcIjRcIn0ifQ°/o3D%3D
+Posts by Location:
+https:/Avww.facebook.com/search/posts/?q=posts&epa=FILTERS&filters=eyjycF9sb2NhdGlvbil6IntcIm
+5hb\WcljpcImxvY2F0aW9uXCIsXCJhcmdzXC16XCIxMDg2NTkyND10OTgxNTVcIn0ifQ
+Photos by Keyword:
+https://www.facebook.com/search/photos/?q=OSINT&epa=FILTERS&filters=eyjycF9hdXRob3IiOiJ7X
+CJuYWllXCI6XCJhdXRob3JcIixcImFyZ3NcIjpdjRcIn0ifQ%3D%3D
+
+4.IntelTechniqucs Facebook Tool
+
+5. for business search for pageID
+
+6. 2006: Numbers less than 600400000
+2007: 600400000 - 1000000000
+2008: 1000000000 - 1140000000
+2009:1140000000- 100000628000000
+2010: 100000629000000- 100001610000000
+2011: 100001611000000- 100003302000000
+2012:100003303000000 - 100004977000000
+2013:100004978000000 - 100007376000000
+2014: 100007377000000- 100008760000000
+2015:100008761000000 - 100010925000000
+2016:100010926000000 - 100014946000000
+2017: 100014947000000- 100023810000000
+2018: 100023811000000-
+timeline estimation of the profile ID
+
+7. Facebook Phone Number Search
+https://mbasic.facebook.com/login/identify/?ctx=recover
+
+8. Facebook Friends Extraction
+
+9.
+While logged in to any covert Facebook profile, click "Create" and then "Page" in the upper-right
+corner. Click "Get Started" under the "Business or Brand" option.
+• Assign a random name to your profile, select any category, and click "Continue".
+• Skip all optional steps.
+• Once you sec rite new profile, click the "Settings" button in the upper-right.
+• On the new menu, click "Page Roles" in the left column.
+• In the Assign a New Page Role" section, enter the target email address.
+

@@ -1,0 +1,19 @@
+Virtual Currencies
+
+Blockchain (blockchain.info)
+Bitcoin Who’s Who (bitcoinwhoswho.com)
+BlockChair (blockchair.com)
+Bitcoin Abuse (bitcoinabuse.com)
+Wallet Explorer (walletexplorer.com)
+
+Virtual Currency APIs
+
+http://codacoin.com/api/public.php?request=validate&address=xxx
+
+https://blockchain.info/q/getreceivedbyaddress/xxx
+https://blockchain.info/q/getsentbyaddress/xxx
+Balance: This utility displays the current balance ofan address in "Satoshi".
+https://blockchain.info/q/addressbalance/xxx
+Scam Search (scamsearch.io)
+
+https://etherscan.io/

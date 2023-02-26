@@ -1,0 +1,11 @@
+INSTAGRAM OSINT INVESTIGATION
+
+1.Google Dorking
+2.Profile Picture:-- https://inflact.com/downloader/instagram/avatar/
+3.Download Posts:-- https://instadp.online/
+5.3rd Party Tools:--
+Search My Bio (searchmy.bio)
+InstaFollowcrs (instafollowers.co/download-instagram-stories)
+Ingramer (ingramer.com/tools/stories-viewer/)
+Downloaderfor Instagram (downloadcr-for-ig.com)
+Dumpor (dumpor.com)

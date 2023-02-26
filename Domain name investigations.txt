@@ -1,0 +1,109 @@
+Domain Names
+
+Current Domain Registration & Hosting
+ViewDNS Whois (viewdns.info/whois)
+ViewDNS Reverse IP (viewdns.info/reverseip)
+ViewDNS Reverse Whois (viewdns.info/reversewhois)
+ViewDNS Port Scanner (viewdns.info/portscan)
+ViewDNS IP History (viewdns.info/iphistory)
+ViewDNS DNS Report (viewdns.info/dnsreport)
+
+Historical Domain Registration
+Whoxy (whoxy.com)
+Whoisology (whoisology.com)
+Domain Big Data (domainbigdata.com)
+Domain Registration Data (web.archive.org)
+https://web.archive.Org/web/http://www.who.is/whois/cnn.com/
+https://web.archive.oig/web/https://whois.domaintools.com/cnn.com
+https://web.archive.0rg/web/https://www.wh0xy.c0m/cnn.com
+https://web.archive.org/web/https://domainbigdata.com/cnn.com
+https://web.archive.org/web/https://whoisology.com/cnn.com
+
+Historical Content Archives
+http://web.archive.org/web
+Archive Today (archive.is / archive.fo / archive.md)
+Mementoweb (mementoweb.org)
+Library ofCongress (webarchive.loc.gov)
+Portuguese Web Archive (arquivo.pt)
+
+Search Engine Cache
+https://webcache.googleusercontent.com/search?q=cache:inteltechniques.com
+Website Informer (website.informer.com)
+URLScan (urlscan.io)
+Easy Counter (easycounter.com)
+Spyse (spyse.com)
+DomainlQ (domainicj.com/snapshot_history)
+Domain Apps (dmns.app)
+Carbon Dating (carbondatc.cs.odu.edu)
+Follow That Page (followthatpage.com)
+Visual Ping (visualping.io)
+Hunter (hunter.io)
+Blacklight (themarkup.org/blacklight)
+
+Domain Analytics
+Spy On Web (spyonweb.com)
+Analyze ID (analyzeid.com)
+DomainlQ (domainiq.com/reverse_analydcs)
+Hacker Target (hackertarget.com/reverse-analytics-search)
+DNSLytics (dnslytics.com/reverse-analytics)
+OSINT.sh (osint.sh)
+https://osintsh/stack: Display all technologies in use by a target domain
+https://osintsh/email: Display all email addresses publicly associated with a target domain
+https:/1osintsh/ssl: Display all SSL certificates associated with a target domain
+https://osint.sh/whoishistor}’: Display historic registrations associated with a target domain
+https://osintsh/analytics: Display all domains associated with a Google Analytics ID
+https://osint.sh/adsense: Display all domains associated with a Google AdSense ID
+https://osint.sh/domain: Display all domains associated with keywords
+https://osintsh/reversewhois: Display all domains publicly associated with an email address
+https://osintsh/ocr: Extract text found within a document stored at a target domain URL
+
+Website Source Code
+
+Nerdy Data (search.nerdydata.com)
+
+Built With (builtwith.com)
+
+Subdomains
+PentestTools (https://pentest-tools.com/information-gathering/find-subdomains-of-domain)
+SubDomain Finder (subdomainfinder.c99.nl)
+DNS Dumpster (dnsdumpster.com)
+
+Robots.txt
+http://www.cnn.com/robots.txt
+
+Search Engine Marketing Tools
+Similar Web (similarweb.com)
+Shared Count (sharedcount.com)
+Small SEO Tools: Backlinks (smallseotools.com/backlink-checker)
+Host.io Backlinks (host.io)
+Host.io Redirects (hostio)
+Small SEO Tools: Plagiarism Checker (smallseotools.com/plagiarism-checkcr)
+Visual Site Mapper (visualsitemapper.com)
+XML Sitemaps (xml-sitemaps.com)
+
+Threat Data
+VirusTotal (virustotal.com)
+Threat Intelligence (threatintelligenceplatform.com)
+Threat Crowd (threatcrowd.org)
+Censys (censys.io)
+
+WordPress Data
+https://gf.dev/wordpress-security-scanner
+https://hackertarget.com/wordpress-security-scan/
+
+Data Breaches and Leaks
+is https://dehashed.com/search?query="inteltechniques.com".
+https://intelx.io/?s=inteltechniques.com
+Leakpeek (leakpeek.com)
+LeakedSource (leakedsource.ru)
+We Leak Info (wcleakinfo.to)
+Phonebook (phonebook.cz)
+
+Cloudflare
+Crimeflare (crimeflare.org:82)
+
+Advanced DNS
+https://dmns.app/domains/michaelbazzell.com/dns-records
+
+
+
